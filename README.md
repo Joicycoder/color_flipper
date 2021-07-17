@@ -2,4 +2,4 @@
 
 ## Hosted Link
 
-[Live preview]()
+[Live preview](https://joicycoder.github.io/color_flipper/)
